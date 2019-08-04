@@ -1,7 +1,7 @@
 # Copied, played with, and implemented a file I found on the internet. I apologize I forgot the URL.
 class Queue:
     # a queue with max size 8.
-    # Its tail is on the left end and its head is on the right end.
+    # Enqueue to the right end and dequeue to the left end.
 
     #Constructor
     def __init__(self):
