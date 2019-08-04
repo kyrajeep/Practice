@@ -2,6 +2,7 @@
 class Queue:
     # a queue with max size 8.
     # Enqueue to the right end and dequeue to the left end.
+    # A way of storing data.
 
     #Constructor
     def __init__(self):
