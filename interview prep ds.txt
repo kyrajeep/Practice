@@ -1,0 +1,119 @@
+cleaning <-> prep
+
+cleaning: to do with data quality
+#######
+age: 1 - 100
+income: 1 - 1000000
+
+won't do linear regression nicely because of difference in units
+
+->normalization: z score value
+
+     min, max: 0-1 - scaling: units line up
+
+NO UMMM: just pause.  'like'
+
+functional programming: what is it?
+
+every word I say they will test.
+ 
+
+##########
+underneath the pyramid, 
+Purchase Order: purchase API!!
+Make boss happy
+
+################
+Our Citizen's Datathon challenge-
+Partition: according to suburbs it did not have location data.
+
+Transactions
+Aggregate accounts
+
+
+For questions I'm not sure about: Be concise - I can get back to you on that. 
+
+paint a competent, confident picture of myself. 
+
+talk about my background: all goes back to painting a confident pic. tell them a story.! a background. no politics/religion. a range of stories to pull from.
+
+don't be monotone. Why are you different from someone from Harvard? Can you appear more human?
+-> Straight up and honest, do you have a story for it?
+
+be concise!
+boston housing data: partition by suburbs.
+
+Be prepared to talk about all your projects in detail. Especially my research. Can you write a sample of your code for research? 
+
+
+give them the relevant info: give them the impression they were shown everything. Don't act like you are hiding stuff from them.
+apma = stats in industry
+
+predictive maintenance - Poisson process. -> system, model building. do this and talk about this! 
+Market this: build a project :) since it is not as accessible
+
+operations research: a lot of lin al :) conceptual. 
+
+systems of equations with constraints -> optimize. 
+- optimization class : review
+-
+
+example answer: "i know conceptually how, but sometimes need documentation. "
+
+
+
+
+Data cleaning -> data aggregation, like groupby merge etc.
+Completing the Diabetes dataset should be important to talk about
+Also be able to talk about the classification with Iris
+Also be able to talk about the Boston housing dataset. 
+
+
+gain bonus points to make up for the less CS background! 
+
+################
+what type of modeling experience do I have? 
+
+optimal clusters in kmeans
+
+BASIC STATS
+recall and precision
+sum of squares:  
+f1 score
+
+######
+
+Do not say that you are stressed. They do not want someone like that. They want someone who can handle a lot of work with grace. 
+
+Interviewing is an art. You want to paint a confident, competent, hard-working picture of yourself. 
+
+####
+
+I am a curious person with lots of questions. I am very precise - ML publication at a top-tier conference. We fixed the program according to my expertise in mathematics. 
+
+
+######
+come with a curiosity about what they do. And confidence. you don't have to arrive with everything all figured out. you can learn it. You cannot have everything they are looking for, but given a job, you can do it well. 
+
+This is your opportunity to learn about their work and their lives a little bit. 
+
+
+########
+
+Be able to explain your research in detail.
+
+Interviewing is an art form. :) Being confident with what you have to offer. The attitude is for things you do not know you can learn fast. 
+
+The art of learning. How do you learn? How do you zoom in zoom out? "Top ten machine learning alogorithms", identifying good websites and notable people to follow on Twitter. Watching the trend and getting an intro to the field instead of getting down right into details. 
+
+ask questions and link it to what you can do for them. What you have done in the past and what you will do in the future.
+
+
+-market point: curious and enthusiastic intellectually/quantitatively.
+
+-Rigorously verify how reliable are the models. (what I have done for research)
+
+-Should I ask Prof Konidaris to write like a reference letter for me? Is that like a thing?
+
+
+Ifrah told me: PM roles :) Microsoft and Google take people fresh out of undergrad and no coding interviews. It is CS and business. 
